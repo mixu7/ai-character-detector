@@ -29,3 +29,11 @@
 
 ```python
 !pip install tensorflow==2.12.1
+
+## Screenshots
+
+### 📌 Teachable Machine Training
+![Teachable Machine](images/teachable_screenshot.jpg)
+
+### 📌 Google Colab Inference
+![Colab Result](images/colab_result.jpg)
